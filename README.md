@@ -1,4 +1,4 @@
 # Algorithm Design
 
-- [Karp-Rabin fingerprinting on strings](./krfp.pdf)
-- [Count-min sketch: range queries](./cmrangequery.pdf)
+3. [Karp-Rabin fingerprinting on strings](./krfp.pdf)
+8. [Count-min sketch: range queries](./cmrangequery.pdf)
