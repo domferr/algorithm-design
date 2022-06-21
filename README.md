@@ -6,7 +6,7 @@
 4. To be done
 5. [Bloom filters](./bloomfilters.pdf)
 6. [Most frequent item in a stream: deterministic case](./mostfreq.pdf)
-7. To be done
+7. [Deterministic data streaming](./dds.pdf)
 8. [Count-min sketch: range queries](./cmrangequery.pdf)
 9. To be done
 10. [Game Theory II](./gth2.pdf)
