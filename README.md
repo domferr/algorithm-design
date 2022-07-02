@@ -8,5 +8,5 @@
 6. [Most frequent item in a stream: deterministic case](./mostfreq.pdf)
 7. [Deterministic data streaming](./dds.pdf)
 8. [Count-min sketch: range queries](./cmrangequery.pdf)
-9. To be done
+9. [Game Theory](./gt.pdf)
 10. [Game Theory II](./gth2.pdf)
