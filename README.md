@@ -1,7 +1,7 @@
 # Algorithm Design
 
 1. [Universal Hash Families](./uhf.pdf)
-2. To be done
+2. [Depth of a node in a random search tree](./depth.pdf)
 3. [Karp-Rabin fingerprinting on strings](./krfp.pdf)
 4. To be done
 5. [Bloom filters](./bloomfilters.pdf)
